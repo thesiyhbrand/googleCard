@@ -62,6 +62,3 @@ document.querySelector(".rght").addEventListener("mouseleave", function(){
 //     document.querySelector(".card").style.rotate = "0deg"
 
 // })
-
-
-hjiokkhf
